@@ -4,3 +4,4 @@
 - [2026-03-30T13:18:45Z] docs: update README with usage examples
 - [2026-03-30T17:58:14Z] test: add unit tests for core module
 - [2026-03-30T15:21:04Z] test: add unit tests for core module
+- [2026-03-30T10:10:46Z] docs: improve inline documentation
